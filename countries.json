@@ -1,0 +1,2598 @@
+[
+  {
+    "name": "Hargeisa",
+    "countryCode": "NULL",
+    "country": "Somaliland",
+    "id": 1,
+    "location": {
+      "latitude": 9.5500000000000007,
+      "longitude": 44.049999999999997
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "King Edward Point",
+    "countryCode": "GS",
+    "country": "South Georgia and South Sandwich Islands",
+    "id": 2,
+    "location": {
+      "latitude": -54.283332999999999,
+      "longitude": -36.5
+    },
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Port-aux-Franais",
+    "countryCode": "TF",
+    "country": "French Southern and Antarctic Lands",
+    "id": 3,
+    "location": {
+      "latitude": -49.350000000000001,
+      "longitude": 70.216667000000001
+    },
+    "continent": "Antarctica"
+  },
+  {
+    "name": "El-Aain",
+    "countryCode": "EH",
+    "country": "Western Sahara",
+    "id": 9,
+    "location": {
+      "latitude": 27.153611000000001,
+      "longitude": -13.203333000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Kabul",
+    "countryCode": "AF",
+    "country": "Afghanistan",
+    "id": 10,
+    "location": {
+      "latitude": 34.516666666666666,
+      "longitude": 69.183333000000005
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Pago Pago",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "id": 13,
+    "location": {
+      "latitude": -14.266666666666667,
+      "longitude": -170.69999999999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Luanda",
+    "countryCode": "AO",
+    "country": "Angola",
+    "id": 15,
+    "location": {
+      "latitude": -8.8333333333333339,
+      "longitude": 13.216666999999999
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "The Valley",
+    "countryCode": "AI",
+    "country": "Anguilla",
+    "id": 16,
+    "location": {
+      "latitude": 18.216666666666665,
+      "longitude": -63.049999999999997
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Saint John's",
+    "countryCode": "AG",
+    "country": "Antigua and Barbuda",
+    "id": 17,
+    "location": {
+      "latitude": 17.116666666666667,
+      "longitude": -61.850000000000001
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Buenos Aires",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "id": 18,
+    "location": {
+      "latitude": -34.583333333333336,
+      "longitude": -58.666666999999997
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 22,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Manama",
+    "countryCode": "BH",
+    "country": "Bahrain",
+    "id": 25,
+    "location": {
+      "latitude": 26.233333333333334,
+      "longitude": 50.566667000000002
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Dhaka",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "id": 26,
+    "location": {
+      "latitude": 23.716666666666665,
+      "longitude": 90.400000000000006
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Bridgetown",
+    "countryCode": "BB",
+    "country": "Barbados",
+    "id": 27,
+    "location": {
+      "latitude": 13.1,
+      "longitude": -59.616667
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Minsk",
+    "countryCode": "BY",
+    "country": "Belarus",
+    "id": 28,
+    "location": {
+      "latitude": 53.899999999999999,
+      "longitude": 27.566666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 29,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Porto-Novo",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "id": 31,
+    "location": {
+      "latitude": 6.4833333333333334,
+      "longitude": 2.6166670000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Hamilton",
+    "countryCode": "BM",
+    "country": "Bermuda",
+    "id": 32,
+    "location": {
+      "latitude": 32.283333333333331,
+      "longitude": -64.783332999999999
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Sarajevo",
+    "countryCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "id": 35,
+    "location": {
+      "latitude": 43.866666666666667,
+      "longitude": 18.416667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Ouagadougou",
+    "countryCode": "BF",
+    "country": "Burkina Faso",
+    "id": 41,
+    "location": {
+      "latitude": 12.366666666666667,
+      "longitude": -1.516667
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Ottawa",
+    "countryCode": "CA",
+    "country": "Canada",
+    "id": 46,
+    "location": {
+      "latitude": 45.416666666666664,
+      "longitude": -75.700000000000003
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Beijing",
+    "countryCode": "CN",
+    "country": "China",
+    "id": 52,
+    "location": {
+      "latitude": 39.916666666666664,
+      "longitude": 116.38333299999999
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "West Island",
+    "countryCode": "CC",
+    "country": "Cocos Islands",
+    "id": 54,
+    "location": {
+      "latitude": -12.166666666666666,
+      "longitude": 96.833332999999996
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Moroni",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "id": 56,
+    "location": {
+      "latitude": -11.699999999999999,
+      "longitude": 43.233333000000002
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "San Jose",
+    "countryCode": "CR",
+    "country": "Costa Rica",
+    "id": 60,
+    "location": {
+      "latitude": 9.9333333333333336,
+      "longitude": -84.083332999999996
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Yamoussoukro",
+    "countryCode": "CI",
+    "country": "Cote d'Ivoire",
+    "id": 61,
+    "location": {
+      "latitude": 6.8166666666666664,
+      "longitude": -5.266667
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Copenhagen",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "id": 67,
+    "location": {
+      "latitude": 55.666666666666664,
+      "longitude": 12.583333
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Cairo",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "id": 72,
+    "location": {
+      "latitude": 30.050000000000001,
+      "longitude": 31.25
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "San Salvador",
+    "countryCode": "SV",
+    "country": "El Salvador",
+    "id": 73,
+    "location": {
+      "latitude": 13.699999999999999,
+      "longitude": -89.200000000000003
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Stanley",
+    "countryCode": "FK",
+    "country": "Falkland Islands",
+    "id": 78,
+    "location": {
+      "latitude": -51.700000000000003,
+      "longitude": -57.850000000000001
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Torshavn",
+    "countryCode": "FO",
+    "country": "Faroe Islands",
+    "id": 79,
+    "location": {
+      "latitude": 62,
+      "longitude": -6.766667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Helsinki",
+    "countryCode": "FI",
+    "country": "Finland",
+    "id": 81,
+    "location": {
+      "latitude": 60.166666666666664,
+      "longitude": 24.933333000000001
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Banjul",
+    "countryCode": "GM",
+    "country": "The Gambia",
+    "id": 85,
+    "location": {
+      "latitude": 13.449999999999999,
+      "longitude": -16.566666999999999
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Saint George's",
+    "countryCode": "GD",
+    "country": "Grenada",
+    "id": 92,
+    "location": {
+      "latitude": 12.050000000000001,
+      "longitude": -61.75
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Hagatna",
+    "countryCode": "GU",
+    "country": "Guam",
+    "id": 93,
+    "location": {
+      "latitude": 13.466666666666667,
+      "longitude": 144.73333299999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Guatemala City",
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "id": 94,
+    "location": {
+      "latitude": 14.616666666666667,
+      "longitude": -90.516666999999998
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Saint Peter Port",
+    "countryCode": "GG",
+    "country": "Guernsey",
+    "id": 95,
+    "location": {
+      "latitude": 49.450000000000003,
+      "longitude": -2.5333329999999998
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Port-au-Prince",
+    "countryCode": "HT",
+    "country": "Haiti",
+    "id": 99,
+    "location": {
+      "latitude": 18.533333333333335,
+      "longitude": -72.333332999999996
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Vatican City",
+    "countryCode": "VA",
+    "country": "Vatican City",
+    "id": 100,
+    "location": {
+      "latitude": 41.899999999999999,
+      "longitude": 12.449999999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Budapest",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "id": 102,
+    "location": {
+      "latitude": 47.5,
+      "longitude": 19.083333
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Tehran",
+    "countryCode": "IR",
+    "country": "Iran",
+    "id": 106,
+    "location": {
+      "latitude": 35.700000000000003,
+      "longitude": 51.416666999999997
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Kuwait City",
+    "countryCode": "KW",
+    "country": "Kuwait",
+    "id": 122,
+    "location": {
+      "latitude": 29.366666666666667,
+      "longitude": 47.966667000000001
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Riga",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "id": 125,
+    "location": {
+      "latitude": 56.950000000000003,
+      "longitude": 24.100000000000001
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Maseru",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "id": 127,
+    "location": {
+      "latitude": -29.316666666666666,
+      "longitude": 27.483332999999998
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Monrovia",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "id": 128,
+    "location": {
+      "latitude": 6.2999999999999998,
+      "longitude": -10.800000000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vilnius",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "id": 131,
+    "location": {
+      "latitude": 54.68333333333333,
+      "longitude": 25.316666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Skopje",
+    "countryCode": "MK",
+    "country": "Macedonia",
+    "id": 133,
+    "location": {
+      "latitude": 42,
+      "longitude": 21.433333000000001
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Port Louis",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "id": 142,
+    "location": {
+      "latitude": -20.149999999999999,
+      "longitude": 57.483333000000002
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Mexico City",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "id": 143,
+    "location": {
+      "latitude": 19.433333333333334,
+      "longitude": -99.133332999999993
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Palikir",
+    "countryCode": "FM",
+    "country": "Federated States of Micronesia",
+    "id": 144,
+    "location": {
+      "latitude": 6.916666666666667,
+      "longitude": 158.15000000000001
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Chisinau",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "id": 145,
+    "location": {
+      "latitude": 47,
+      "longitude": 28.850000000000001
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "MC",
+    "country": "Monaco",
+    "id": 146,
+    "location": {
+      "latitude": 43.733333333333334,
+      "longitude": 7.4166670000000003
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Maputo",
+    "countryCode": "MZ",
+    "country": "Mozambique",
+    "id": 151,
+    "location": {
+      "latitude": -25.949999999999999,
+      "longitude": 32.583333000000003
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Amsterdam",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "id": 154,
+    "location": {
+      "latitude": 52.350000000000001,
+      "longitude": 4.9166670000000003
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Managua",
+    "countryCode": "NI",
+    "country": "Nicaragua",
+    "id": 157,
+    "location": {
+      "latitude": 12.133333333333333,
+      "longitude": -86.25
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Alofi",
+    "countryCode": "NU",
+    "country": "Niue",
+    "id": 160,
+    "location": {
+      "latitude": -19.016666666666666,
+      "longitude": -169.91666699999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Muscat",
+    "countryCode": "OM",
+    "country": "Oman",
+    "id": 164,
+    "location": {
+      "latitude": 23.616666666666667,
+      "longitude": 58.583333000000003
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Asuncion",
+    "countryCode": "PY",
+    "country": "Paraguay",
+    "id": 169,
+    "location": {
+      "latitude": -25.266666666666666,
+      "longitude": -57.666666999999997
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Manila",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "id": 171,
+    "location": {
+      "latitude": 14.6,
+      "longitude": 120.966667
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Warsaw",
+    "countryCode": "PL",
+    "country": "Poland",
+    "id": 173,
+    "location": {
+      "latitude": 52.25,
+      "longitude": 21
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Lisbon",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "id": 174,
+    "location": {
+      "latitude": 38.716666666666669,
+      "longitude": -9.1333330000000004
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Kigali",
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "id": 179,
+    "location": {
+      "latitude": -1.95,
+      "longitude": 30.050000000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Basseterre",
+    "countryCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "id": 182,
+    "location": {
+      "latitude": 17.300000000000001,
+      "longitude": -62.716667000000001
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Sao Tome",
+    "countryCode": "ST",
+    "country": "Sao Tome and Principe",
+    "id": 188,
+    "location": {
+      "latitude": 0.33333333333333331,
+      "longitude": 6.733333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Riyadh",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "id": 189,
+    "location": {
+      "latitude": 24.649999999999999,
+      "longitude": 46.700000000000003
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Dakar",
+    "countryCode": "SN",
+    "country": "Senegal",
+    "id": 190,
+    "location": {
+      "latitude": 14.733333333333333,
+      "longitude": -17.633333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Bratislava",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "id": 196,
+    "location": {
+      "latitude": 48.149999999999999,
+      "longitude": 17.116667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Honiara",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "id": 198,
+    "location": {
+      "latitude": -9.4333333333333336,
+      "longitude": 159.94999999999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Mogadishu",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "id": 199,
+    "location": {
+      "latitude": 2.0666666666666669,
+      "longitude": 45.333333000000003
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Paramaribo",
+    "countryCode": "SR",
+    "country": "Suriname",
+    "id": 205,
+    "location": {
+      "latitude": 5.833333333333333,
+      "longitude": -55.166666999999997
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Mbabane",
+    "countryCode": "SZ",
+    "country": "Swaziland",
+    "id": 207,
+    "location": {
+      "latitude": -26.316666666666666,
+      "longitude": 31.133333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Bangkok",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "id": 214,
+    "location": {
+      "latitude": 13.75,
+      "longitude": 100.516667
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Nuku'alofa",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "id": 217,
+    "location": {
+      "latitude": -21.133333333333333,
+      "longitude": -175.19999999999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Ashgabat",
+    "countryCode": "TM",
+    "country": "Turkmenistan",
+    "id": 221,
+    "location": {
+      "latitude": 37.950000000000003,
+      "longitude": 58.383333
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Grand Turk",
+    "countryCode": "TC",
+    "country": "Turks and Caicos Islands",
+    "id": 222,
+    "location": {
+      "latitude": 21.466666666666665,
+      "longitude": -71.133332999999993
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Abu Dhabi",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "id": 226,
+    "location": {
+      "latitude": 24.466666666666665,
+      "longitude": 54.366667
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "London",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "id": 227,
+    "location": {
+      "latitude": 51.5,
+      "longitude": -0.083333000000000004
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Washington D.C.",
+    "countryCode": "US",
+    "country": "United States",
+    "id": 228,
+    "location": {
+      "latitude": 38.883333,
+      "longitude": -77
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Montevideo",
+    "countryCode": "UY",
+    "country": "Uruguay",
+    "id": 229,
+    "location": {
+      "latitude": -34.850000000000001,
+      "longitude": -56.166666999999997
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Caracas",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "id": 232,
+    "location": {
+      "latitude": 10.483333333333333,
+      "longitude": -66.866667000000007
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Harare",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "id": 238,
+    "location": {
+      "latitude": -17.816666666666666,
+      "longitude": 31.033332999999999
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Diego Garcia",
+    "countryCode": "IO",
+    "country": "British Indian Ocean Territory",
+    "id": 244,
+    "location": {
+      "latitude": -7.2999999999999998,
+      "longitude": 72.400000000000006
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Tirana",
+    "countryCode": "AL",
+    "country": "Albania",
+    "id": 10571,
+    "location": {
+      "latitude": 41.31666666666667,
+      "longitude": 19.816666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 10728,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe10706"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 10735,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe10706"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 10788,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe10706"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 10810,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia10706"
+  },
+  {
+    "name": "Vaduz",
+    "countryCode": "LI",
+    "country": "Liechtenstein",
+    "id": 12134,
+    "location": {
+      "latitude": 47.133333333333333,
+      "longitude": 9.516667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Mbabane",
+    "countryCode": "SZ",
+    "country": "Swaziland",
+    "id": 12563,
+    "location": {
+      "latitude": -26.316666666666666,
+      "longitude": 31.133333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 12699,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe12677"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 12706,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe12677"
+  },
+  {
+    "name": "Ottawa",
+    "countryCode": "CA",
+    "country": "Canada",
+    "id": 12744,
+    "location": {
+      "latitude": 45.416666666666664,
+      "longitude": -75.700000000000003
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 12759,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe12677"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 12781,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia12677"
+  },
+  {
+    "name": "Cairo",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "id": 16059,
+    "location": {
+      "latitude": 30.050000000000001,
+      "longitude": 31.25
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Tegucigalpa",
+    "countryCode": "HN",
+    "country": "Honduras",
+    "id": 16800,
+    "location": {
+      "latitude": 14.1,
+      "longitude": -87.216667000000001
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Dakar",
+    "countryCode": "SN",
+    "country": "Senegal",
+    "id": 16861,
+    "location": {
+      "latitude": 14.733333333333333,
+      "longitude": -17.633333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 19027,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe19005"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 19034,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe19005"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 19087,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe19005"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 19109,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia19005"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 20034,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe20012"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 20041,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe20012"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 20094,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe20012"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 20116,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia20012"
+  },
+  {
+    "name": "Bujumbura",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "id": 21198,
+    "location": {
+      "latitude": -3.3666666666666667,
+      "longitude": 29.350000000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Hamilton",
+    "countryCode": "BM",
+    "country": "Bermuda",
+    "id": 21838,
+    "location": {
+      "latitude": 32.283333333333331,
+      "longitude": -64.783332999999999
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 24739,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe24717"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 24746,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe24717"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 24799,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe24717"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 24821,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia24717"
+  },
+  {
+    "name": "Kampala",
+    "countryCode": "UG",
+    "country": "Uganda",
+    "id": 25352,
+    "location": {
+      "latitude": 0.31666666666666665,
+      "longitude": 32.549999999999997
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 25987,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe25965"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 25994,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe25965"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 26047,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe25965"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 26069,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia25965"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 26113,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe26091"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 26120,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe26091"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 26173,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe26091"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 26195,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia26091"
+  },
+  {
+    "name": "San Salvador",
+    "countryCode": "SV",
+    "country": "El Salvador",
+    "id": 26292,
+    "location": {
+      "latitude": 13.699999999999999,
+      "longitude": -89.200000000000003
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 28681,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe28659"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 28688,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe28659"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 28741,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe28659"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 28763,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia28659"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 30544,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe30522"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 30551,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe30522"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 30604,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe30522"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 30626,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia30522"
+  },
+  {
+    "name": "Riga",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "id": 31456,
+    "location": {
+      "latitude": 56.950000000000003,
+      "longitude": 24.100000000000001
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 34904,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe34882"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 34911,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe34882"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 34964,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe34882"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 34986,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia34882"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 36307,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe36285"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 36314,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe36285"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 36367,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe36285"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 36389,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia36285"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 37839,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe37817"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 37846,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe37817"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 37899,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe37817"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 37921,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia37817"
+  },
+  {
+    "name": "Niamey",
+    "countryCode": "NE",
+    "country": "Niger",
+    "id": 41420,
+    "location": {
+      "latitude": 13.516666666666667,
+      "longitude": 2.1166670000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 41593,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe41571"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 41600,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe41571"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 41653,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe41571"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 41675,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia41571"
+  },
+  {
+    "name": "Madrid",
+    "countryCode": "ES",
+    "country": "Spain",
+    "id": 42342,
+    "location": {
+      "latitude": 40.399999999999999,
+      "longitude": -3.6833330000000002
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Tirana",
+    "countryCode": "AL",
+    "country": "Albania",
+    "id": 42388,
+    "location": {
+      "latitude": 41.31666666666667,
+      "longitude": 19.816666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Prague",
+    "countryCode": "CZ",
+    "country": "Czech Republic",
+    "id": 42922,
+    "location": {
+      "latitude": 50.083333333333336,
+      "longitude": 14.466666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Monrovia",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "id": 44124,
+    "location": {
+      "latitude": 6.2999999999999998,
+      "longitude": -10.800000000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Mariehamn",
+    "countryCode": "AX",
+    "country": "Aland Islands",
+    "id": 44850,
+    "location": {
+      "latitude": 60.116667,
+      "longitude": 19.899999999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Moroni",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "id": 48452,
+    "location": {
+      "latitude": -11.699999999999999,
+      "longitude": 43.233333000000002
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 49589,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe49567"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 49596,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe49567"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 49649,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe49567"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 49671,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia49567"
+  },
+  {
+    "name": "Mata-Utu",
+    "countryCode": "WF",
+    "country": "Wallis and Futuna",
+    "id": 50246,
+    "location": {
+      "latitude": -13.949999999999999,
+      "longitude": -171.933333
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Taipei",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "id": 50552,
+    "location": {
+      "latitude": 25.033333333333335,
+      "longitude": 121.516667
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 52678,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe52656"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 52685,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe52656"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 52738,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe52656"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 52760,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia52656"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 53274,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe53252"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 53281,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe53252"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 53334,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe53252"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 53356,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia53252"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 55448,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe55426"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 55455,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe55426"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 55508,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe55426"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 55530,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia55426"
+  },
+  {
+    "name": "Torshavn",
+    "countryCode": "FO",
+    "country": "Faroe Islands",
+    "id": 56077,
+    "location": {
+      "latitude": 62,
+      "longitude": -6.766667
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 56185,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe56163"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 56192,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe56163"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 56245,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe56163"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 56267,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia56163"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 56992,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe56970"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 56999,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe56970"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 57052,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe56970"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 57074,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia56970"
+  },
+  {
+    "name": "Kigali",
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "id": 57396,
+    "location": {
+      "latitude": -1.95,
+      "longitude": 30.050000000000001
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 58187,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe58165"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 58194,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe58165"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 58247,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe58165"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 58269,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia58165"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "id": 59026,
+    "location": {
+      "latitude": 3.1666666666666665,
+      "longitude": 101.7
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 61401,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe61379"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 61408,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe61379"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 61461,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe61379"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 61483,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia61379"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 63159,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe63137"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 63166,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe63137"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 63219,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe63137"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 63241,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia63137"
+  },
+  {
+    "name": "Minsk",
+    "countryCode": "BY",
+    "country": "Belarus",
+    "id": 67025,
+    "location": {
+      "latitude": 53.899999999999999,
+      "longitude": 27.566666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Santiago",
+    "countryCode": "CL",
+    "country": "Chile",
+    "id": 67612,
+    "location": {
+      "latitude": -33.450000000000003,
+      "longitude": -70.666667000000004
+    },
+    "continent": "South America"
+  },
+  {
+    "name": "Bissau",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "id": 69460,
+    "location": {
+      "latitude": 11.85,
+      "longitude": -15.583333
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 71055,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe71033"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 71062,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe71033"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 71115,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe71033"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 71137,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia71033"
+  },
+  {
+    "name": "Hargeisa",
+    "countryCode": "NULL",
+    "country": "Somaliland",
+    "id": 73161,
+    "location": {
+      "latitude": 9.5500000000000007,
+      "longitude": 44.049999999999997
+    },
+    "continent": "Africa"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 75044,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe75022"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 75051,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe75022"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 75104,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe75022"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 75126,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia75022"
+  },
+  {
+    "name": "Port Moresby",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "id": 76030,
+    "location": {
+      "latitude": -9.4499999999999993,
+      "longitude": 147.183333
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Male",
+    "countryCode": "MV",
+    "country": "Maldives",
+    "id": 77607,
+    "location": {
+      "latitude": 4.166666666666667,
+      "longitude": 73.5
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "MC",
+    "country": "Monaco",
+    "id": 78220,
+    "location": {
+      "latitude": 43.733333333333334,
+      "longitude": 7.4166670000000003
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Sofia",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "id": 78828,
+    "location": {
+      "latitude": 42.68333333333333,
+      "longitude": 23.316666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 79381,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe79359"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 79388,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe79359"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 79441,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe79359"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 79463,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia79359"
+  },
+  {
+    "name": "Road Town",
+    "countryCode": "VG",
+    "country": "British Virgin Islands",
+    "id": 80908,
+    "location": {
+      "latitude": 18.416666666666668,
+      "longitude": -64.616667000000007
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Canberra",
+    "countryCode": "AU",
+    "country": "Australia",
+    "id": 81910,
+    "location": {
+      "latitude": -35.266666666666666,
+      "longitude": 149.13333299999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Bridgetown",
+    "countryCode": "BB",
+    "country": "Barbados",
+    "id": 82349,
+    "location": {
+      "latitude": 13.1,
+      "longitude": -59.616667
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Manila",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "id": 82476,
+    "location": {
+      "latitude": 14.6,
+      "longitude": 120.966667
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Islamabad",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "id": 87738,
+    "location": {
+      "latitude": 33.68333333333333,
+      "longitude": 73.049999999999997
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Canberra",
+    "countryCode": "AU",
+    "country": "Australia",
+    "id": 88759,
+    "location": {
+      "latitude": -35.266666666666666,
+      "longitude": 149.13333299999999
+    },
+    "continent": "Australia"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 89404,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe89382"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 89411,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe89382"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 89464,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe89382"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 89486,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia89382"
+  },
+  {
+    "name": "Vilnius",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "id": 90339,
+    "location": {
+      "latitude": 54.68333333333333,
+      "longitude": 25.316666999999999
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "San Salvador",
+    "countryCode": "SV",
+    "country": "El Salvador",
+    "id": 90751,
+    "location": {
+      "latitude": 13.699999999999999,
+      "longitude": -89.200000000000003
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Astana",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "id": 92647,
+    "location": {
+      "latitude": 51.166666666666664,
+      "longitude": 71.416667000000004
+    },
+    "continent": "Asia"
+  },
+  {
+    "name": "Panama City",
+    "countryCode": "PA",
+    "country": "Panama",
+    "id": 93548,
+    "location": {
+      "latitude": 8.9666666666666668,
+      "longitude": -79.533332999999999
+    },
+    "continent": "Central America"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 98862,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe98840"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 98869,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe98840"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 98922,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe98840"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 98944,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia98840"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "country": "Austria",
+    "id": 99508,
+    "location": {
+      "latitude": 48.200000000000003,
+      "longitude": 16.366667
+    },
+    "continent": "Europe99486"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "id": 99515,
+    "location": {
+      "latitude": 50.833333333333336,
+      "longitude": 4.3333329999999997
+    },
+    "continent": "Europe99486"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "country": "France",
+    "id": 99568,
+    "location": {
+      "latitude": 48.866666666666667,
+      "longitude": 2.3333330000000001
+    },
+    "continent": "Europe99486"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "id": 99590,
+    "location": {
+      "latitude": 28.600000000000001,
+      "longitude": 77.200000000000003
+    },
+    "continent": "Asia99486"
+  }
+]
